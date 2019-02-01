@@ -9,3 +9,8 @@ Please install 'geohash' library using pip.
 Collaborators:
 Name: Deexith Mysore Nagaraj
 Name: Pavan Holenarasipura
+
+Data Set Links:
+SF Crime Data Set:
+https://www.kaggle.com/c/sf-crime/data
+
